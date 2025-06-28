@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Roberta	
 Meta Front-End course
 
